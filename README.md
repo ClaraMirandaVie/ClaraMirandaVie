@@ -4,7 +4,7 @@
 <!-- ================================================= -->
 
 <p align="center">
-  <img src="banner1.png" width="100%" alt="Clara Miranda Vieira — Digital Archive"/>
+  <img src="banner2.png" width="100%" alt="Clara Miranda Vieira — Digital Archive"/>
 </p>
 
 <p align="center">
