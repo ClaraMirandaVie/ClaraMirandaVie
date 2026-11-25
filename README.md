@@ -3,7 +3,7 @@
 
 <p align="center">
   <img
-    src="assets/banner1.png"
+    src="banner1.png"
     width="100%"
     alt="Clara Miranda Vieira — Digital Archive"
   />
