@@ -57,8 +57,6 @@ Beyond programming, I'm also interested in fashion, architecture, music and visu
   <code>VISUAL DESIGN</code>
 </p>
 
-<p align="right"><i>Always curious. Always creating.</i></p>
-
 <hr>
 
 <!-- ==================== 02 / TOOLKIT ================== -->
@@ -138,21 +136,6 @@ Things that inspire the way I think, create and explore.
 
 <hr>
 
-<!-- ==================== 05 / CONTACT ================== -->
-
-<a name="contact"></a>
-
-<h2>05 / CONTACT</h2>
-
-<h1><i>Let's connect.</i></h1>
-
-Interested in projects, ideas or collaborations? Feel free to reach out.
-
-<p>
-  <a href="https://github.com/ClaraMirandaVie">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
 
 <hr>
 
