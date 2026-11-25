@@ -1,7 +1,7 @@
 
-<!-- ================================================== -->
-<!--                  CLARA / DIGITAL ARCHIVE            -->
-<!-- ================================================== -->
+<!-- ================================================= -->
+<!--              CLARA / DIGITAL ARCHIVE              -->
+<!-- ================================================= -->
 
 <p align="center">
   <img src="banner1.png" width="100%" alt="Clara Miranda Vieira — Digital Archive"/>
@@ -23,12 +23,11 @@
   <a href="#about">ABOUT</a> &nbsp; / &nbsp;
   <a href="#toolkit">TOOLKIT</a> &nbsp; / &nbsp;
   <a href="#projects">PROJECTS</a> &nbsp; / &nbsp;
-  <a href="#interests">INTERESTS</a> &nbsp; / &nbsp;
-  <a href="#contact">CONTACT</a>
+  <a href="#academic">ACADEMIC WORKS</a> &nbsp; / &nbsp;
+  <a href="#interests">INTERESTS</a>
 </p>
 
 <br>
-
 <hr>
 
 <!-- ==================== 01 / ABOUT ==================== -->
@@ -47,15 +46,11 @@ I'm interested in software development, technology and creative problem-solving.
 
 Beyond programming, I'm also interested in fashion, architecture, music and visual culture. I believe these different fields offer new perspectives on how we create and interact with technology.
 
-<p>
-  <b>A FEW THINGS I LOVE</b>
-  <br><br>
-  <code>TECHNOLOGY</code>
-  <code>FASHION</code>
-  <code>ARCHITECTURE</code>
-  <code>MUSIC</code>
-  <code>VISUAL DESIGN</code>
-</p>
+**LANGUAGES**
+
+- Portuguese — Native
+- English — C2
+- French — A1
 
 <hr>
 
@@ -67,17 +62,29 @@ Beyond programming, I'm also interested in fashion, architecture, music and visu
 
 <h1><i>Tools of the trade.</i></h1>
 
-The technologies I use to explore, experiment and build.
+Technologies and tools I use to explore, experiment and build.
 
-**01 — LANGUAGES & WEB**
+**01 — PROGRAMMING & WEB DEVELOPMENT**
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
 </p>
 
-**02 — DEVELOPMENT TOOLS**
+**02 — DATABASES & BACKEND**
+
+<p>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
+</p>
+
+**03 — DEVELOPMENT TOOLS**
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
@@ -91,11 +98,11 @@ The technologies I use to explore, experiment and build.
 
 <a name="projects"></a>
 
-<h2>03 / SELECTED WORK</h2>
+<h2>03 / SELECTED PROJECTS</h2>
 
-<h1><i>Ideas in progress.</i></h1>
+<h1><i>Ideas into reality.</i></h1>
 
-A collection of personal projects, experiments and things I've built along the way.
+A selection of personal projects, experiments and digital experiences.
 
 ### 001 — snake.exe
 
@@ -103,24 +110,64 @@ A collection of personal projects, experiments and things I've built along the w
 
 A browser-based Snake game developed with HTML, CSS and JavaScript.
 
-Featuring multiple game modes, difficulty levels, keyboard controls and gameplay improvements across its versions.
+Featuring multiple game modes, difficulty levels, keyboard controls, a timer and different gameplay experiences.
 
 <p>
-  <a href="https://claramirandavie.github.io/snake.exe/">
+  <a href="https://claramirandavie.github.io/snake.exe-1.2/">
     <img src="https://img.shields.io/badge/PLAY_THE_GAME-E8A0B5?style=flat-square&logoColor=black" alt="Play the game"/>
   </a>
-  <a href="https://github.com/ClaraMirandaVie/snake.exe">
-    <img src="https://img.shields.io/badge/SOURCE_CODE-222222?style=flat-square&logo=github&logoColor=white" alt="Source code"/>
+  <a href="https://github.com/ClaraMirandaVie">
+    <img src="https://img.shields.io/badge/EXPLORE_REPOSITORIES-222222?style=flat-square&logo=github&logoColor=white" alt="Explore repositories"/>
   </a>
 </p>
 
+### 002 — CTRL+FASHION
+
+**Fashion, culture and digital exploration.**
+
+An independent digital publication concept exploring fashion, visual culture, trends, designers and creative expression.
+
+<code>IN DEVELOPMENT</code>
+
+### 003 — AccessPath
+
+**Rethinking accessibility and mobility.**
+
+An academic project concept exploring how digital technology can contribute to accessible architecture and improve everyday urban mobility.
+
+<code>IN DEVELOPMENT</code>
+
 <hr>
 
-<!-- ==================== 04 / INTERESTS ================ -->
+<!-- ==================== 04 / ACADEMIC WORKS =========== -->
+
+<a name="academic"></a>
+
+<h2>04 / ACADEMIC WORKS</h2>
+
+<h1><i>Learning by building.</i></h1>
+
+A collection of academic projects, practical assignments and experiments developed throughout my education.
+
+**01 — UNISINOS**
+
+Computer Science projects, programming assignments and academic experiments.
+
+*Projects will be added as they are developed.*
+
+**02 — SENAC**
+
+Technical education projects and practical experiences developed during my technical studies.
+
+*Projects will be added as they are organized.*
+
+<hr>
+
+<!-- ==================== 05 / INTERESTS ================ -->
 
 <a name="interests"></a>
 
-<h2>04 / BEYOND TECHNOLOGY</h2>
+<h2>05 / BEYOND TECHNOLOGY</h2>
 
 <h1><i>Curiosity has no boundaries.</i></h1>
 
@@ -133,16 +180,10 @@ Things that inspire the way I think, create and explore.
 | ARCHITECTURE | Spatial design and accessibility |
 | MUSIC | Music discovery and musical instruments |
 | TECHNOLOGY | Artificial intelligence and digital experiences |
+| CULTURE | Cinema, games, literature and art |
 
 <hr>
 
-
-<hr>
-
-<!-- ==================== FOOTER ======================= -->
-
-<p align="center">
-  <i>A personal archive of code, ideas and digital projects.</i>
-  <br><br>
-  <sub>CLARA MIRANDA VIEIRA · VOL. 01 · 2026</sub>
-</p>
+<!-- ================================================= -->
+<!--                    END OF FILE                     -->
+<!-- ================================================= -->
